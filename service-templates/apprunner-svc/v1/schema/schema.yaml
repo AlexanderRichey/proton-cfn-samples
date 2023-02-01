@@ -36,9 +36,9 @@ schema:
         service_dir:
           title: "Application Code Directory"
           type: string
-          description: "Source directory for the service"
-          default: "ecs-static-website"
-          minLength: 0
+          description: "Source directory for the service. You must include a trailing slash."
+          default: "ecs-static-website/"
+          minLength: 1
           maxLength: 100
         dockerfile:
           title: "Dockerfile"
