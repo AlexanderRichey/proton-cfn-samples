@@ -90,7 +90,7 @@ Resources:
                   },
                   "artifacts": {
                     "files": [
-                      "{{pipeline.inputs.service_dir}}/rendered_service.yaml"
+                      "{{pipeline.inputs.service_dir}}rendered_service.yaml"
                     ]
                   }
                 }
