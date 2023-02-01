@@ -1,5 +1,5 @@
 ### NOTE
-AppRunner may only be available in certain regions. Check [here](https://docs.aws.amazon.com/general/latest/gr/apprunner.html) for where AppRunner may be available. 
+AppRunner may only be available in certain regions. Check [here](https://docs.aws.amazon.com/general/latest/gr/apprunner.html) for where AppRunner may be available. Ugh.
 
 ## Description
 
